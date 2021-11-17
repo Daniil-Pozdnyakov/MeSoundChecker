@@ -19,11 +19,11 @@ Use Finder panel. Select "Go" > "Home" for install ![MacOS Finder panel](https:/
 
 That script check service every minute. Duration after start: 1 - 1.5 minutes. That normal, just wait and after full run push up terminal window. You can see all information in terminal.
 
--Last update: last check time
--Ignore list: contains services where sound alert not need (You can add services in code search list "ignore_list" in "def main()". And you can add service after alert). You continue see services in "Down Pingdom" and in "Down New Relic".
--Warning list: Services and down time. After 5 minutes will launch alert. Ignoring services not can show in that list.
--Down on New Relic: down New Relic services
--Down on Pingdom: down Pingdom services
+- Last update: last check time
+- Ignore list: contains services where sound alert not need (You can add services in code search list "ignore_list" in "def main()". And you can add service after alert). You continue see services in "Down Pingdom" and in "Down New Relic".
+- Warning list: Services and down time. After 5 minutes will launch alert. Ignoring services not can show in that list.
+- Down on New Relic: down New Relic services
+- Down on Pingdom: down Pingdom services
 
 Alert will run "audio.mp3" in project folder. You can replace sound on another with "audio.mp3" name.
 

@@ -27,6 +27,6 @@ That script check service every minute. Duration after start: 1 - 1.5 minutes. T
 
 Alert will run "audio.mp3" in project folder. You can replace sound on another with "audio.mp3" name.
 
-After alert you need send any key in terminal and sound will turn off. After terminal will offer to add the service to the ignore list. For add send 'y' key. Else send another key and wait after minute new information about last check.
+After alert you need send any key in terminal and sound will turn off. After terminal will offer to add the service to the ignore list. Reboot programm for clear ignore list. For add send 'y' key. Else send another key and wait after minute new information about last check.
 
 Script created by Daniil Pozdnyakov. Search me in chats or message me for help on pozd20001@yandex.ru

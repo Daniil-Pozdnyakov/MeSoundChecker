@@ -30,6 +30,6 @@ Alert will run "audio.mp3" in project folder. You can replace sound on another w
 
 After alert you need send any key in terminal and sound will turn off. After terminal will offer to add the service to the ignore list. Reboot programm for clear ignore list. For add send 'y' key. Else send another key and wait after minute new information about last check.
 
-If you need check service, please open that use right mouse button and choose "Open Link in New Tab".
+If you need check service, please open that use right mouse button and choose "Open Link in New Tab". Script continue work normally, you can check services with second and more open another tabs. 
 
 Script created by Daniil Pozdnyakov. Search me in chats or message me for help on pozd20001@yandex.ru

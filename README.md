@@ -16,3 +16,5 @@ Use Finder panel. Select "Go" > "Home" for install ![MacOS Finder panel](https:/
 6. Open terminal and use ```cd MESoundChecker-main``` 
 7. Use ```python main.py```
 8. Profit!
+
+Search me in chats - Daniil Pozdnyakov. My non-official email: pozd20001@yandex.ru
